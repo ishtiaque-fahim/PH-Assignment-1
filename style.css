@@ -410,3 +410,7 @@ footer {
     margin-left: 24px;
     margin-right: 24px;
 }
+
+.yt-video {
+    border-radius: 30px;
+}
